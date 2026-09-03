@@ -1,0 +1,3 @@
+interface:
+  display_name: "豆尼提报查重"
+  short_description: "按达人名称核对重复、在执行、客户否过和黑名单"
